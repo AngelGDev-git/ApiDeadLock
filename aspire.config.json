@@ -1,0 +1,5 @@
+{
+  "appHost": {
+    "path": "ApiDeadLock.AppHost/ApiDeadLock.AppHost.csproj"
+  }
+}

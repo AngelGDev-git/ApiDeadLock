@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ApiDeadLock.ApiService/ApiDeadLock.ApiService.csproj" />
+  <Project Path="ApiDeadLock.AppHost/ApiDeadLock.AppHost.csproj" />
+  <Project Path="ApiDeadLock.ServiceDefaults/ApiDeadLock.ServiceDefaults.csproj" />
+  <Project Path="ApiDeadLock.Web/ApiDeadLock.Web.csproj" />
+</Solution>
